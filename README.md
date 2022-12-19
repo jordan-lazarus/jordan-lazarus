@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surazal-omega
+- 👋 Hi, I’m @jordan-lazarus
 - 👀 I’m interested in AWS Cloud Infrastructure
 - 🌱 I’m currently learning Solutions Architecture, Python, BASH, Linux
 - 📫 How to reach me jordan@lazaruscloud.com
